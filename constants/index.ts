@@ -32,6 +32,7 @@ export const resumes: Resume[] = [
         score: 90,
         tips: [],
       },
+      recommendations: false
     },
   },
   {
@@ -62,6 +63,7 @@ export const resumes: Resume[] = [
         score: 90,
         tips: [],
       },
+      recommendations: false
     },
   },
   {
@@ -92,6 +94,7 @@ export const resumes: Resume[] = [
         score: 90,
         tips: [],
       },
+      recommendations: false
     },
   },
   {
@@ -122,6 +125,7 @@ export const resumes: Resume[] = [
         score: 90,
         tips: [],
       },
+      recommendations: false
     },
   },
   {
@@ -152,6 +156,7 @@ export const resumes: Resume[] = [
         score: 90,
         tips: [],
       },
+      recommendations: false
     },
   },
   {
@@ -182,6 +187,7 @@ export const resumes: Resume[] = [
         score: 90,
         tips: [],
       },
+      recommendations: false
     },
   }
 ];

@@ -15,6 +15,7 @@ interface Resume {
 }
 
 interface Feedback {
+  recommendations: boolean;
   overallScore: number;
   ATS: {
     score: number;
